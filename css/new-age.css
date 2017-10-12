@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - New Age v4.0.0-beta (http://startbootstrap.com/template-overviews/new-age)
+ * Start Bootstrap - New Age v4.0.0-beta (https://startbootstrap.com/template-overviews/new-age)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-new-age/blob/master/LICENSE)
  */
@@ -12,12 +12,12 @@ body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif'; }
 
 a {
-  color: #fdcc52;
+  color: #cfc477;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s; }
   a:hover, a:focus {
-    color: #fcbd20; }
+    color: #c2b451; }
 
 hr {
   max-width: 100px;
@@ -58,12 +58,12 @@ section {
   font-weight: 200;
   letter-spacing: 1px; }
   #mainNav .navbar-brand {
-    color: #fdcc52;
+    color: #222222;
     font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: 200;
     letter-spacing: 1px; }
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-      color: #fcbd20; }
+      color: #090909; }
   #mainNav .navbar-toggler {
     font-size: 12px;
     padding: 8px 10px;
@@ -74,7 +74,7 @@ section {
     letter-spacing: 2px;
     text-transform: uppercase; }
     #mainNav .navbar-nav > li > a.active {
-      color: #fdcc52 !important;
+      color: #222222 !important;
       background-color: transparent; }
       #mainNav .navbar-nav > li > a.active:hover {
         background-color: transparent; }
@@ -83,7 +83,7 @@ section {
     color: #222222; }
     #mainNav .navbar-nav > li > a:hover,
     #mainNav .navbar-nav > li > a:focus:hover {
-      color: #fdcc52; }
+      color: #222222; }
   @media (min-width: 992px) {
     #mainNav {
       border-color: transparent;
@@ -104,13 +104,13 @@ section {
         #mainNav.navbar-shrink .navbar-brand {
           color: #222222; }
           #mainNav.navbar-shrink .navbar-brand:hover, #mainNav.navbar-shrink .navbar-brand:focus {
-            color: #fdcc52; }
+            color: #222222; }
         #mainNav.navbar-shrink .navbar-nav > li > a,
         #mainNav.navbar-shrink .navbar-nav > li > a:focus {
           color: #222222; }
           #mainNav.navbar-shrink .navbar-nav > li > a:hover,
           #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
-            color: #fdcc52; } }
+            color: #222222; } }
 
 header.masthead {
   position: relative;
@@ -118,9 +118,9 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  background: url("../img/bg-pattern.png"), #7b4397;
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430); }
+  background: url("../img/bg-pattern.png"), #365f17;
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #365f17, #dbd6af);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #365f17, #dbd6af); }
   header.masthead .header-content {
     max-width: 500px;
     margin-bottom: 100px;
@@ -196,15 +196,15 @@ section.features .feature-item {
     font-size: 80px;
     display: block;
     margin-bottom: 15px;
-    background: -webkit-linear-gradient(to left, #7b4397, #dc2430);
-    background: linear-gradient(to left, #7b4397, #dc2430);
+    background: -webkit-linear-gradient(to left, #365f17, #dbd6af);
+    background: linear-gradient(to left, #365f17, #dbd6af);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
 
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/bg-cta.jpg");
+  background-image: url("../img/paddock.jpeg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -277,12 +277,12 @@ footer {
         text-decoration: none; }
 
 .bg-primary {
-  background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539); }
+  background: #cfc477;
+  background: -webkit-linear-gradient(#cfc477, #c8bc64);
+  background: linear-gradient(#cfc477, #c8bc64); }
 
 .text-primary {
-  color: #fdcc52; }
+  color: #cfc477; }
 
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -294,8 +294,8 @@ footer {
   border-color: white; }
   .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
     color: white;
-    border-color: #fdcc52;
-    background-color: #fdcc52; }
+    border-color: #cfc477;
+    background-color: #cfc477; }
 
 .btn {
   border-radius: 300px;
